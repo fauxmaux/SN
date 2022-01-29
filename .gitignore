@@ -1,0 +1,9 @@
+#my
+*.txt
+*.zip
+*.pdf
+*.indd
+*.el
+*.me
+*.mp3
+/test/
